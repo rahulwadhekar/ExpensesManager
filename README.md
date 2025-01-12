@@ -32,9 +32,9 @@ The Expense Manager Application is a Spring Boot-based web application designed 
 
 ## Technical Stack
 
-- **Backend**: Spring Boot, JPA/Hibernate
-- **Database**: MySQL (or any preferred relational database)
-- **Tools**: IntelliJ IDEA, Maven, Postman (for API testing)
+- **Backend**: Spring Boot, Hibernate
+- **Database**: MySQL 
+- **Tools**: Eclipse, Maven, Postman (for API testing)
 
 ## Installation and Usage
 
@@ -42,7 +42,7 @@ The Expense Manager Application is a Spring Boot-based web application designed 
 
 1. Java 17+
 2. Maven
-3. MySQL or any relational database
+3. MySQL
 4. Postman (optional, for API testing)
 
 ### Steps to Run
